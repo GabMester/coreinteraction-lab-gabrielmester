@@ -1,0 +1,52 @@
+body {
+	margin-top: 10%;
+	font-style: bold;
+	background-color: white
+
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(liquidodo.otf);
+}
+
+		.first-div {
+			color: black;
+			font-family: baskerville;
+			font-style: italic; 
+			font-size : 30px ;
+			line-height: 30px;
+			word-spacing: 0px;
+			padding-left: 10%;
+			padding-right: 30%;
+			}
+
+		.first-div:hover { 
+			
+			color: pink;
+			padding-left: 10%;
+			padding-right: 30%;
+			line-height: 30px;
+			word-spacing: -10px;
+		
+		}
+		.first-div:active { 
+			font-size : 30px ;
+			color: pink;
+			padding-left: 10%;
+			padding-right: 30%;
+			line-height: 30px;
+			word-spacing: 0px;
+			letter-spacing: 140px; }
+
+		.second-div {
+			color: black ;
+			font-family: baskerville;
+			font-style: italic;
+			font-size : 30px ;
+			/*text-align: center;*/
+			line-height: 30px;
+			word-spacing: 0px;
+			padding-left: 10%;
+			padding-right: 30%;}
+
