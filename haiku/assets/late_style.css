@@ -1,7 +1,7 @@
 body {
 	margin-top: 10%;
 	font-style: bold;
-	background-color:black;
+	background-color:rgb(210,210,240);
 
 }
 
@@ -16,7 +16,7 @@ body {
 			font-size : 50px ;
 			line-height: 30px;
 			word-spacing: 0px;
-			padding-left: 10%;
+			padding-left: 50%;
 			padding-right: 30%;
 			}
 
@@ -24,23 +24,23 @@ body {
 			
 			color: yellow;
 			font-family: myFirstFont;
-			font-size : 55px ;
+			font-size : 50px ;
 			line-height: 30px;
 			word-spacing: 0px;
-			padding-left: 10%;
+			padding-left: 50%;
 			padding-right: 30%;
 		
 		}
 		
 
 		.second-div {
-			color:rgb(200,200,200);
+			color: white;
 			font-family: helvetica;
 			/*font-style: italic;
-*/			font-size : 20px ;
+*/			font-size : 40px ;
 			/*text-align: center;*/
-			line-height: 20px;
+			line-height: 40px;
 			word-spacing: 0px;
-			padding-left: 10%;
-			padding-right: 30%;}
+			padding-left: 50%;
+			padding-right: 10%;}
 

@@ -1,0 +1,55 @@
+body{
+	background-color: lightBlue;
+	font-family: arial;
+}
+
+.header {
+	text-align: center; 
+	padding-top: 3%;
+	padding-bottom: 3%;
+	font-size: 21px;
+	
+}
+
+.place {
+text-align: center; 
+font-size: 13px;
+margin-left: 16%;
+margin-right: 16%;
+margin-top: 20px;
+margin-bottom: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+border: 10px solid;
+}
+
+.place-footer {
+text-align: center; 
+font-size: 13px;
+padding-top:;
+margin-left: 15%;
+margin-right: 15%;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.desert { 
+	color: brown;
+	background-color: orange;	
+	border-color: yellow;
+}
+
+.jungle { 
+	color: yellow;
+	background-color: darkgreen;	
+	border-color: green;
+}
+
+.city { 
+	color: white;
+	background-color: dimGray;	
+	border-color: black;
+}
+
+
+

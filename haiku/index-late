@@ -3,10 +3,10 @@
 
 <head>
 
-	<title> early haiku </title>
-	<link rel="stylesheet" type="text/css" href="assets/early_style.css">
+	<title> late haiku </title>
+	<link rel="stylesheet" type="text/css" href="assets/late_style.css">
 	<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
-	<script type="text/javascript" src="assets/early.js"></script>
+	<script type="text/javascript" src="assets/late.js"></script>
 
 
 
@@ -14,7 +14,7 @@
 
 <body>
 	 
-	 	<div class= "first-div"> 5:00 am <br><br> </div>
+	 	<div class= "first-div"> 12:00 pm <br><br> </div>
 		<div class= "second-div" style="display:none"> wakened by pain 
 		<br>I wipe the sweat 
 		<br> and rose petals 
