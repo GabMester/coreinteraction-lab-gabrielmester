@@ -1,0 +1,49 @@
+@keyframes example {
+    from {background-color}
+    to {background-color: black;}
+}
+
+@keyframes blour {
+    from {-webkit-filter: blur(0px);}
+    to {-webkit-filter: blur(3px);}
+}
+
+body {
+	margin-top: 10%;
+	font-style: bold;
+  	-webkit-animation: example 8s infinite;
+
+}
+
+#sleepy {
+
+}
+
+
+		.first-div {
+			color: black;
+			font-family: baskerville;
+			font-style: italic; 
+			font-size : 30px ;
+			line-height: 30px;
+			word-spacing: 0px;
+			padding-left: 10%;
+			padding-right: 30%;
+			-webkit-animation: blour 8s infinite;
+			}
+
+
+
+		.second-div {
+			color: black ;
+			font-family: baskerville;
+			font-style: italic;
+			font-size : 30px ;
+			/*text-align: center;*/
+			line-height: 30px;
+			word-spacing: 0px;
+			padding-left: 10%;
+			padding-right: 30%;
+			-webkit-animation: blour 8s infinite;
+			}
+

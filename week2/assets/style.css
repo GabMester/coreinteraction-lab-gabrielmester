@@ -1,0 +1,71 @@
+
+
+
+
+body {
+
+	/*comments look like this in css    width: 400px;*/
+	
+	margin-left: 20%;
+    margin-right: auto;
+    width: 200px;
+	padding: 40px;
+/*	background-color: rgb(245,245,245);
+*/	font-family: helvetica ;
+	font-size: 12px; 
+	line-height: 1,5;
+
+	
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(antique_black.ttf);
+}
+
+@font-face {
+    font-family: mySecondFont;
+    src: url(antique_nord_italic.ttf);
+}
+
+.title {
+	font-family: myFirstFont;
+	font-size: 20px;
+	line-height: 18px;
+	width: 170px;
+}
+
+.categories {
+	
+	line-height: 50px;	
+	color:black;
+	font-family: myFirstFont;
+	font-size: 20px;
+	line-height: 28px;
+	text-decoration: none;
+}
+
+.categories:hover {
+	line-height: 50px;	
+	color: yellow;
+	font-family: myFirstFont;
+	font-size: 25px;
+	line-height: 28px;
+	text-decoration: none;
+}
+
+.first {}
+
+.second { margin-left: 10px;
+}
+
+.wrapper {
+	text-decoration: none;
+	width: 100px;
+
+}
+
+p {
+	color: white;
+	
+}

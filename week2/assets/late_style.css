@@ -1,0 +1,46 @@
+body {
+	margin-top: 10%;
+	font-style: bold;
+	background-color:rgb(210,210,240);
+
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(digi.ttf);
+}
+
+		.first-div {
+			color: black;
+			font-family: myFirstFont;
+			font-size : 50px ;
+			line-height: 30px;
+			word-spacing: 0px;
+			padding-left: 50%;
+			padding-right: 30%;
+			}
+
+		.first-div:hover { 
+			
+			color: yellow;
+			font-family: myFirstFont;
+			font-size : 50px ;
+			line-height: 30px;
+			word-spacing: 0px;
+			padding-left: 50%;
+			padding-right: 30%;
+		
+		}
+		
+
+		.second-div {
+			color: white;
+			font-family: helvetica;
+			/*font-style: italic;
+*/			font-size : 40px ;
+			/*text-align: center;*/
+			line-height: 40px;
+			word-spacing: 0px;
+			padding-left: 50%;
+			padding-right: 10%;}
+

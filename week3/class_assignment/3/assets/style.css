@@ -1,0 +1,60 @@
+
+
+.square1 {
+	
+	position: relative;
+	background-color: orange;
+	width: 200px;
+	height: 200px;	
+	top: 40px;
+	left: 40px;
+ 
+	
+	}
+
+.square2 {
+	
+	position: absolute;
+	background-color: orange;
+	width: 200px;
+	height: 200px;	
+	top: 20px;
+	left: 20px;
+
+	}
+
+
+.square3 {
+	
+	position: absolute;
+	background-color: blue;
+	width: 200px;
+	height: 200px;	
+	top: 30px;
+	left: 35px;
+    
+    
+
+	}
+
+.rectangle {
+	position: fixed;
+	height: 70px;
+	width: 200px;
+	background-color: yellow;
+	top: 100px;
+}
+
+
+
+.circle1 {
+	border-radius: 100%;
+	background-color: blue;
+	margin: 5px;
+	width: 190px;
+	height: 190px;	
+	 
+	}
+
+
+

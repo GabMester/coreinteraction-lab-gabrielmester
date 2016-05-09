@@ -1,0 +1,79 @@
+
+
+.square {
+	position: absolute;
+	background-color: purple;
+	width: 200px;
+	height: 400px;	
+	top: 0%;
+	right: 0%;
+	}
+
+
+
+.smallSquare1 {
+	position: relative;
+	background-color: brown;
+	width: 70%;
+	height: 30px;
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+.smallSquare2 {
+	position: relative;
+	background-color: brown;
+	width: 70%;
+	height: 30px;
+	margin-left: 0%;
+	margin-top: 5%;
+}
+
+.smallSquare3 {
+	position: relative;
+	background-color: brown;
+	width: 70%;
+	height: 30px;
+	margin-left: 7%;
+	margin-top: 5%;
+
+}
+
+.smallSquare4 {
+	position: relative;
+	background-color: brown;
+	width: 70%;
+	height: 30px;
+	margin-left: 0%;
+	margin-top: 5%;
+}
+
+.smallSquare5 {
+	position: relative;
+	background-color: brown;
+	width: 70%;
+	height: 30px;
+	margin-top: 5%;
+	margin-left: 15%;
+}
+
+.smallSquare6 {
+	position: absolute;
+	background-color: brown;
+	width: 90%;
+	height: 60px;
+	bottom: 0%;
+	margin: 5%;
+}
+
+.circle {
+	position: absolute;
+	width: 40%;
+	height: 40%;
+	border-radius: 80%;
+	background-color: white;
+	left: 30%;
+	top: 30%;
+	
+}
+

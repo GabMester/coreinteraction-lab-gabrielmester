@@ -1,0 +1,81 @@
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(CHbold.otf);
+}
+
+@font-face {
+    font-family: mySecondFont;
+    src: url(CHbook.otf);
+}
+
+.title {
+	position: fixed;
+	top: 50px;
+	left: 50px;
+	height: 70px;
+	width: 70px;
+
+}
+
+.washDetail {
+	
+	position: relative;
+	height: 600px;
+	width: 600px;
+	position: center;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+
+
+.description {
+	position: absolute;
+	font-family: myFirstFont;
+	font-size: 20px;
+	line-height: 15px;
+	left: 470px;
+	top: 135px;
+}
+
+.smallerDescription {
+	position: absolute;
+	font-family: mySecondFont;
+	font-size: 15px;
+	line-height: 16px;
+	left: 470px;
+	top: 150px;
+}
+
+.info {
+		position: absolute;
+	font-family: mySecondFont;
+	font-size: 12px;
+	line-height: 12px;
+	left: 470px;
+	top: 210px;
+
+}
+
+.new {
+	position: absolute;
+	font-family: myFirstFont;
+	color: orange;
+	font-size: 30px;
+	line-height: 16px;
+	left: 470px;
+	top: 290px;
+
+}
+
+.new:hover {
+	position: absolute;
+	font-family: myFirstFont;
+	color: yellow;
+	font-size: 80px;
+	line-height: 16px;
+	left: 470px;
+	top: 220px;
+
+}

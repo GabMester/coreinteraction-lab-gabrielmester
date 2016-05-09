@@ -1,0 +1,26 @@
+
+
+.sectionLeft {
+	background-color: blue;
+	position: absolute;
+	height: 200px;
+	width: 100px;
+	top:0;
+	left: 0;
+}
+
+
+.sectionRight {
+	background-color: yellow;
+	position: absolute;
+	height: 200px;
+	width: 100px;
+	top:0;
+	left: 100px;
+}
+
+
+
+
+
+

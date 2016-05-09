@@ -1,0 +1,38 @@
+
+body {
+	margin-top: 10%;
+	font-style: bold;
+
+
+}
+
+#sleepy {
+
+}
+
+
+		.first-div {
+			color: black;
+			font-family: helvetica;
+			font-style: italic; 
+			font-size : 30px ;
+			line-height: 30px;
+			word-spacing: 0px;
+			padding-left: 10%;
+			padding-right: 30%;
+			}
+
+
+
+		.second-div {
+			color: black ;
+			font-family: helvetica;
+			font-style: italic;
+			font-size : 30px ;
+			/*text-align: center;*/
+			line-height: 30px;
+			word-spacing: 0px;
+			padding-left: 10%;
+			padding-right: 30%;
+			}
+

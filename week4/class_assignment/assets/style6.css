@@ -1,0 +1,28 @@
+
+
+.out {
+	background-color: blue;
+	height: 200px;
+	width: 200px;
+	top:0;
+	left: 0;
+	position: absolute;
+}
+
+
+.in {
+	background-color: yellow;
+	position: absolute;
+	height: 90%;
+	width: 90%;
+	margin-bottom: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+}
+
+
+
+
+
+

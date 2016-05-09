@@ -1,0 +1,19 @@
+
+.rectangle {
+	background-color: blue;
+	position: relative;
+	height: 100px;
+	width: 200px;
+	margin-bottom: 
+
+}
+
+.rectangle-right {
+bottom: 20%;
+left: 100px;
+}
+
+.rectangle-left {
+left: 10px;
+margin-bottom: 50px;
+}

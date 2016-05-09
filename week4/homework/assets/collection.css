@@ -1,0 +1,127 @@
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(gravity.otf);
+}
+
+/*body {
+	-webkit-filter: blur(2px);
+}*/
+
+.background {
+	position: absolute;
+	/*z-index: -1;*/
+	height: 100%;
+	width: 100%;
+}
+
+.title {
+	position: fixed;
+	top: 50px;
+	left: 50px;
+	height: 200px;
+	width: 200px;
+
+}
+
+#button {
+	position: fixed;
+	top: 140px;
+	left: 170px;
+	height: 200px;
+	width: 200px;
+	z-index: +2;
+}
+
+
+.wash {
+	/*display: flex; */
+	position: relative;
+	/*justify-content: center;
+	align-items: center;*/
+	height: 400px;
+	width: 400px;
+}
+
+#waash {
+	background-image: url('images/1.jpeg');
+	position: relative;
+	height: 300px;
+	width: 300px;
+}
+
+
+.wash1 {
+	/*display: flex; */
+	position: relative;
+	/*justify-content: center;
+	align-items: center;*/
+	height: 400px;
+	width: 400px;
+}
+
+.wash2 {
+	/*display: flex; */
+	position: relative;
+	/*justify-content: center;
+	align-items: center;*/
+	height: 400px;
+	width: 400px;
+}
+
+.wash3 {
+	/*display: flex; */
+	position: relative;
+	/*justify-content: center;
+	align-items: center;*/
+	height: 400px;
+	width: 400px;
+}
+
+.wash4 {
+	/*display: flex; */
+	position: relative;
+	/*justify-content: center;
+	align-items: center;*/
+	height: 400px;
+	width: 400px;
+}
+
+.wash5 {
+	/*display: flex; */
+	position: relative;
+	/*justify-content: center;
+	align-items: center;*/
+	height: 400px;
+	width: 400px;
+}
+
+
+.wash6 {
+	/*display: flex; */
+	position: relative;
+	/*justify-content: center;
+	align-items: center;*/
+	height: 400px;
+	width: 400px;
+}
+
+.wash7 {
+	/*display: flex; */
+	position: relative;
+	/*justify-content: center;
+	align-items: center;*/
+	height: 400px;
+	width: 400px;
+}
+
+.wash8 {
+	/*display: flex; */
+	position: relative;
+	/*justify-content: center;
+	align-items: center;*/
+	height: 400px;
+	width: 400px;
+}
+
+

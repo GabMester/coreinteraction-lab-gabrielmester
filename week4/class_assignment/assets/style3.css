@@ -1,0 +1,24 @@
+
+
+.square {
+	background-color: blue;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	top:0;
+	left: 0;
+}
+
+
+.cuteSquare {
+	background-color: yellow;
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	top: 0;
+	right:0;
+}
+
+
+
+

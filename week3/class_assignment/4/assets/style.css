@@ -1,0 +1,107 @@
+
+
+.title {
+	z-index: 0; position:fixed;
+
+	font-family: helvetica;
+	font-size: 100px;
+}
+
+
+.square1 {
+	position: absolute;
+	background-color: purple;
+	width: 200px;
+	height: 400px;	
+}
+
+.square2 {
+	
+	
+	position: absolute;
+	background-color: lightgreen;
+	width: 200px;
+	height: 80%;
+	top: 10%;
+	left: 50%;
+
+
+	}
+
+.square3 {
+	position: absolute;
+	background-color: purple;
+	width: 200px;
+	height: 400px;	
+	top: 70%;
+	}
+
+
+
+.square4 {
+	
+	position: absolute;
+	background-color: yellow;
+	left: 2%;
+	top: 2%;
+	width: 180px;
+	height: 100px;
+
+    
+	}
+
+
+.smallSquare1 {
+	position: absolute;
+	background-color: brown;
+	width: 30px;
+	height: 30px;
+	left: 2%;
+	top: 2%;
+}
+
+.smallSquare2 {
+	position: absolute;
+	background-color: brown;
+	width: 30px;
+	height: 30px;
+	left: 35%;
+	top: 5%;
+}
+
+.smallSquare3 {
+	position: absolute;
+	background-color: brown;
+	width: 30px;
+	height: 30px;
+	left: 70%;
+	top: 2%;
+}
+
+.smallSquare4 {
+	position: absolute;
+	background-color: brown;
+	width: 30px;
+	height: 30px;
+	left: 2%;
+	top: 50%;
+}
+
+.smallSquare5 {
+	position: absolute;
+	background-color: brown;
+	width: 30px;
+	height: 30px;
+	left: 35%;
+	top: 50%;
+}
+
+.smallSquare6 {
+	position: absolute;
+	background-color: brown;
+	width: 30px;
+	height: 30px;
+	left: 70%;
+	top: 50%;
+}
+
