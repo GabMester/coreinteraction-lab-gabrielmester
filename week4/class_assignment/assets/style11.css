@@ -1,28 +1,28 @@
+
+
+
 .half {
-	background-color: blue;
+	
+
 	height: 300px;
 	width: 300px;
-	top:0;
-	left: 0;
+	background-color: blue;
+	text-align: center;
 
 }
 
 
 .small {
-	/*position: fixed;
-	top: 0%;
-	left:0%;*/
-	background-color: yellow;
+display: inline-block;
 	height: 50px;
 	width: 50px;
-	margin: 5px;
-	display: inline-block;
-	float: center;
+	background-color: yellow;
+	margin-right: 5px;
+	margin-bottom: 5px;
+
+
 	
 }
-
-
-
 
 
 
