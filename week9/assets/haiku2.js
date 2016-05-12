@@ -6,37 +6,30 @@
 //         alert('clicked!');
 //     });
 // });
-function () {
-
-var bouton = "";
 
 
+$ ('select').change(function (event){
 
-$ ('select').on('click','#hurt', function () {
-    bouton == 1;
-   });
+var value= event.target.value ;
 
-$ ('select').on('click','#happy', function () {
-    bouton == 2;
-   });
+console.log(value);
 
-$ ('select').on('click','#sad', function () {
-    bouton == 3;
-   });
+if (value == "hurt") {
+	document.body.setAttribute("style", "background-color: red"); 
 
-};
-
-if (bouton == 1) {
-	document.body.setAttribute("style", "background-color: black"); 
 }
 
-else if (bouton == 2) {
+else if (value == "happy") {
+	
 	document.body.setAttribute("style", "background-color: pink"); 
 }
 
-else (bouton == 3) {
+else if (value == "sad") {
+
 	document.body.setAttribute("style", "background-color: blue"); 
 }
+
+});
 
 
 
